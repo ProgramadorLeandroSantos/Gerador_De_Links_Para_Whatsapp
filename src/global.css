@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #003445;
+    font-family: 'Rokkitt', serif;
+    color: #FFF;
+    background-image:  url('./assets/fundo.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size:100% 100%; */
+}
