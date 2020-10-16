@@ -13,4 +13,4 @@
 4 - ja no terminal com o diretório do projeto, Execute `yarn start` para abrir a aplição no navegador. <br/>
 
 ##### Objetivo: Por em pratica meus estudos em React JS.
-###### Tecnologia utilizada : React e algumas bibliotecas que achei muito legal.
+###### Tecnologia utilizada : ReactJS e algumas bibliotecas que achei muito legal.
