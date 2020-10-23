@@ -5,7 +5,7 @@
 
 ## Como Utilizar?
 
-###### Dependências: Node JS
+###### Dependências: NodeJS
 
 1 - Clone ou baixe o Projeto para sua máquina.<br/>
 2 - Abra o projeto no Visual Studio code.<br/>
